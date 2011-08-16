@@ -1,0 +1,1 @@
+Based of the nice work over at [http://manalang.com/static-websites-with-heroku](http://manalang.com/static-websites-with-heroku). This is just packaged up so for a quicker start on the Cedar platform.
